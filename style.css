@@ -1,3 +1,20 @@
+@font-face{
+    font-family: "AvengerText";
+    src: url(AvengeroRegular-zvgl.ttf);
+}
+
+
 body{
-    background-color: red;
+    background-color: 	#cccccc;
+}
+h1{
+    font-family: "AvengerText";
+    font-size:50px;
+}
+#q1, #q2, #q3, #q4, #q5, #q6{
+    background-color: #f26126;
+    height:200px;
+    width:400px;
+    border-radius: 25px;
+    padding:10px;
 }
